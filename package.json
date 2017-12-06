@@ -1,0 +1,26 @@
+{
+  "name": "vue-search-suggestion",
+  "version": "0.0.2",
+  "description": "vue dropdown suggestion selector",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KELEN/vue-search-suggestion.git"
+  },
+  "keywords": [
+    "vue",
+    "dropdown",
+    "menu",
+    "vue",
+    "dropdown",
+    "selection"
+  ],
+  "author": "kelen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KELEN/vue-search-suggestion/issues"
+  },
+  "homepage": "https://github.com/KELEN/vue-search-suggestion#readme",
+  "dependencies": {}
+}
