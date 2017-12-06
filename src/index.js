@@ -1,4 +1,4 @@
-import SearchSuggestion from './src/SearchSuggestion.vue'
+import SearchSuggestion from './components/SearchSuggestion.vue'
 SearchSuggestion.install = function (Vue) {
   Vue.component(SearchSuggestion.name, SearchSuggestion)
 };
