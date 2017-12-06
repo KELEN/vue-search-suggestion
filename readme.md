@@ -54,6 +54,8 @@ new Vue({
 </script>
 ```
 #### 事件处理
-| 事件        | 说明   | 参数 |
-| input | 输入事件 | event事件  |
-| selected  | 选择事件   | 选择的item |
+
+| 方法 | 参数 | 说明 |
+| ------ | ------ | ------ |
+| input  | event，获取值event.target.value |  输入响应事件 |
+| selected  | 选择的item，item.value获取值 | 选择响应事件 |
