@@ -116,7 +116,7 @@
     data() {
       return {
         showSuggest: false,
-        value: ""
+        value: ''
       };
     },
     methods: {

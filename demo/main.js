@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import SearchSuggestion from '../src/index';
+import SearchSuggestion from '../index.js';
 
 Vue.use(SearchSuggestion);
 
