@@ -1,5 +1,5 @@
 ## vue search dropdown suggestion
-
+[demo][1]
 ### install
 ```javascript
 npm i vue-search-suggestion -S
@@ -89,18 +89,22 @@ export default {
 
 </style>
 ```
-#### 属性
+##### 属性
 
-| 属性 | 值 |  说明 |
-| placeholder | string | input空值字符串 |
-| showBtn | boolean | 显示按钮 |
-| datas | array | 动态数据，value对应的值为显示的内容 | 
+ 属性 | 值 |  说明 
+------ | ------ | ------ 
+placeholder | string | input空值字符串 
+showBtn | boolean | 显示按钮 
+datas | array | 动态数据，value对应的值为显示的内容
 
 
-#### 事件处理
+##### 事件处理
 
 | 方法 | 参数 | 说明 |
 | ------ | ------ | ------ |
 | input  | event，获取值event.target.value |  输入响应事件 |
 | selected  | 选择的item，item.value获取值 | 选择响应事件 |
 | click  | input的值 | 搜索按钮点击事件 |
+
+
+  [1]: https://kelen.github.io/vue/search-suggestion/

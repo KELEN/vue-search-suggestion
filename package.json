@@ -1,7 +1,7 @@
 {
   "name": "vue-search-suggestion",
   "description": "VueSearchSuggestion",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "author": "Kelen",
   "license": "ISC",
   "private": false,
